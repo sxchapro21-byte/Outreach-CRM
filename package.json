@@ -1,0 +1,9 @@
+{
+  "name": "crm-outreach",
+  "version": "1.0.0",
+  "private": true,
+  "description": "CRM Outreach - suivi d'outreach pour agence OFM",
+  "dependencies": {
+    "@netlify/blobs": "^8.1.0"
+  }
+}
